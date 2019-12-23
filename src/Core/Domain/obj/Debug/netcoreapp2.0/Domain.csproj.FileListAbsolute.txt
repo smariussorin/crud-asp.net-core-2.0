@@ -1,0 +1,70 @@
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Domain\bin\Debug\netcoreapp2.0\Domain.deps.json
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Domain\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Domain\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Domain\bin\Debug\netcoreapp2.0\Domain.Core.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Domain\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Domain\bin\Debug\netcoreapp2.0\Domain.Core.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Domain\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Domain\obj\Debug\netcoreapp2.0\Domain.csprojAssemblyReference.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfo.cs
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CopyComplete
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Domain\obj\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Domain\obj\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.deps.json
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.Core.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Domain\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.Core.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Domain\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.csprojAssemblyReference.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfo.cs
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CopyComplete
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.deps.json
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.Core.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.Core.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.csprojAssemblyReference.cache
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfo.cs
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CopyComplete
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.csprojAssemblyReference.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfo.cs
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.deps.json
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.Core.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.Core.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CopyComplete
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.deps.json
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.Core.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Domain.Core.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Domain\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.csprojAssemblyReference.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfo.cs
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CopyComplete
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Domain\obj\Debug\netcoreapp2.0\Domain.pdb

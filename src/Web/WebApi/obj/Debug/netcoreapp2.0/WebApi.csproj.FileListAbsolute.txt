@@ -1,0 +1,140 @@
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\Equinox.Application.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\Equinox.Domain.Core.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\Equinox.Domain.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\Equinox.Infra.CrossCutting.Bus.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\Equinox.Infra.CrossCutting.Identity.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\Equinox.Infra.CrossCutting.IoC.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\Equinox.Infra.Data.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\Equinox.Application.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\Equinox.Infra.CrossCutting.Bus.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\Equinox.Infra.CrossCutting.Identity.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\Equinox.Infra.CrossCutting.IoC.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\Equinox.Domain.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\Equinox.Infra.Data.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\bin\Debug\netcoreapp2.0\Equinox.Domain.Core.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojAssemblyReference.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CopyComplete
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\Equinox.WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\Application.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.Core.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.Data.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\Application.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.Data.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.Core.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojAssemblyReference.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CopyComplete
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Application.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.Core.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.Data.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Application.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.Data.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.Core.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojAssemblyReference.cache
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CopyComplete
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojAssemblyReference.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Application.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.Core.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.Data.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Application.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.Data.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.Core.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CopyComplete
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Application.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.Core.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.Data.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Application.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Infra.Data.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\bin\Debug\netcoreapp2.0\Domain.Core.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojAssemblyReference.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CopyComplete
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Web\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb

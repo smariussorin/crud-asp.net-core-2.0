@@ -1,0 +1,377 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Application\\Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Application\\Application.csproj",
+        "projectName": "Equinox.Application",
+        "projectPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain\\Domain.csproj"
+              },
+              "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Infra.Data\\Infra.Data.csproj": {
+                "projectPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Infra.Data\\Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "System.ComponentModel.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain.Core\\Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain.Core\\Domain.Core.csproj",
+        "projectName": "Equinox.Domain.Core",
+        "projectPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain.Core\\Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[7.5.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain\\Domain.csproj",
+        "projectName": "Equinox.Domain",
+        "projectPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain.Core\\Domain.Core.csproj"
+              },
+              "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Infra.CrossCutting.Bus\\Infra.CrossCutting.Bus.csproj": {
+                "projectPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Infra.CrossCutting.Bus\\Infra.CrossCutting.Bus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[7.5.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "System.Security.Claims": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Infra.CrossCutting.Bus\\Infra.CrossCutting.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Infra.CrossCutting.Bus\\Infra.CrossCutting.Bus.csproj",
+        "projectName": "Equinox.Infra.CrossCutting.Bus",
+        "projectPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Infra.CrossCutting.Bus\\Infra.CrossCutting.Bus.csproj",
+        "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Infra.CrossCutting.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain.Core\\Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Infra.Data\\Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Infra.Data\\Infra.Data.csproj",
+        "projectName": "Equinox.Infra.Data",
+        "projectPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Infra.Data\\Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gfmau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Cursos\\EduardoPires\\ProjetoCrudDDDAspNETCore\\ProjetoCrudDDDAsp.NETCore\\src\\Core\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "System.Reflection.TypeExtensions": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

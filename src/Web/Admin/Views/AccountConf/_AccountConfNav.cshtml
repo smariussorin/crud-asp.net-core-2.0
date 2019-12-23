@@ -1,0 +1,11 @@
+﻿@using Admin.Views.AccountConf
+@inject SignInManager<ApplicationUser> SignInManager
+@{
+    var hasExternalLogins = (await SignInManager.GetExternalAuthenticationSchemesAsync()).Any();
+}
+
+<ul class="nav nav-pills nav-stacked">
+    <li class="@AccountConfNav.IndexNavClass(ViewContext)"><a asp-action="Index">Menu</a></li>
+    <li class="@AccountConfNav.ClientListNavClass(ViewContext)"><a asp-action="ClientList">Cadastro de empresas</a></li>
+</ul>
+

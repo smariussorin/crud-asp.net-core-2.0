@@ -1,0 +1,85 @@
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.deps.json
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.Core.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.Core.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.csproj.CopyComplete
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Equinox.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.deps.json
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.Core.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.Core.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.pdb
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.csproj.CopyComplete
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.dll
+C:\Projetos\Guilherme\AspNetCoreDDD\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.deps.json
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.Core.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.Core.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.pdb
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.csproj.CopyComplete
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.dll
+C:\Projetos\Guilherme\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.deps.json
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.Core.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.Core.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.csproj.CopyComplete
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAsp.NETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.deps.json
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.Core.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Domain.Core.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.0\Infra.CrossCutting.Bus.pdb
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.csproj.CopyComplete
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.dll
+C:\Projetos\Curso\Asp.NET Core\ProjetoCrudDDDAspNETCore\src\Core\Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.0\Infra.CrossCutting.Identity.pdb
